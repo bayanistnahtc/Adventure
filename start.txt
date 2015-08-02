@@ -1,0 +1,5 @@
+Welcome to The debuglings adventures!
+1)	Start new game
+2)	Save
+3)	Load
+$$ 

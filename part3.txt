@@ -1,0 +1,5 @@
+You have spent a lot of energy to move and cleaning.	
+1)	have a meal
+2)	go to bed
+3)  next
+$$

@@ -1,0 +1,5 @@
+The firstly you should clean your new house; you can do it yourselves or instruct your wife. You can postpone it for next time
+1)	do it yourselves
+2)	instruct your wife
+3)	have a meal
+$$

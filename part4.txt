@@ -1,0 +1,4 @@
+There was a state of emergency in motor you urgently need to go to work!
+1)	go to work
+2)	stay at home
+$$

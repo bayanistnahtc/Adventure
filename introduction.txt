@@ -1,0 +1,6 @@
+Introduction.
+Debaglings are small creatures who live in every car. They are responsible for the safety and stable work of the car.
+You are debugling Minir that moves with your wife Fixy and son Refit to live in old Porsche 911. 
+The car’s owner is ambitious student, who plans to be one of the best software engineers in the world.       
+1)	next
+$$
